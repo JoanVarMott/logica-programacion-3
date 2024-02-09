@@ -3,7 +3,7 @@ function factorial() {
 
     if (isNaN(inputNumber) || inputNumber < 0) {
         document.getElementById('resultado').textContent = 
-        'Error: ingresa un número positivo válido.';
+        `Error: ingresa un número positivo.`;
         Swal.fire({
             icon: "error",
             title: "Oops...",
