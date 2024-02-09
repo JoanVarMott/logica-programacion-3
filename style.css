@@ -1,0 +1,13 @@
+section{
+    background-color: rgb(124, 27, 204);
+    width: 500px;
+    text-align: center;
+    padding: 10px;
+}
+
+input{
+    display: block;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+}
